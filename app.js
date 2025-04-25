@@ -1,6 +1,6 @@
 const app = document.getElementById("app");
 let templateHtml = "";
-let listaFrutas = ['🍓','🍌','🍎','🍇','🍎','🍍','🍓','🥝','🥝','🍇','🍌','🍍'];
+let listaFrutas = ['😁','😂','🍎','🍇','🍎','🍍','🍓','🥝','🥝','🍇','🍌','🍍'];
 let arrayCard = [];
 let arrayFrutas = [];
 
